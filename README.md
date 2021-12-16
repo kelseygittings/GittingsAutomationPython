@@ -6,6 +6,11 @@ This is my first from scratch python based framework, so I'm sure there are a fe
 Tests are ran from the testCases Folder > test_login.py
 
 Dev Tool: Pycharm
+
+Environment variables used for login (import os)
+
+For help with setting environment variables https://www.youtube.com/watch?v=IolxqkL7cD8&t=215s
+
 Libraries: selenium and pytest (Recommended for pip install)
 ```bash
 pip install selenium
